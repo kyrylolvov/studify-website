@@ -234,6 +234,7 @@ footer {
   color: var(--typography-button);
   font-size: 1rem;
   line-height: 1.75rem;
+  margin: 1rem 0;
 }
 
 .footer-social {
@@ -261,6 +262,7 @@ footer {
 .footer-contanct-list p {
   color: var(--typography-button);
   font-size: 1rem;
+  margin: 1rem 0;
 }
 
 @media screen and (max-width: 1024px) {
